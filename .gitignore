@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+QIFT_plot.py
+result*
+images
+qiita*
